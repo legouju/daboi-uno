@@ -1,0 +1,20 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "./src",
+  "dependencies": {
+    "@types/node": "^14.10.2",
+    "discord-uno": "^2.0.7",
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "npm un discord-uno && npm i C:\\Users\\orion\\Documents\\npm-packages\\discord-uno && node .\\index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
